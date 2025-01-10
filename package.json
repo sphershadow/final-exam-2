@@ -1,0 +1,18 @@
+{
+    "name": "final-exam-2",
+    "version": "1.0.0",
+    "description": "A project for the final exam with CI/CD pipeline.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {}, 
+    "devDependencies": {
+      "jest": "^29.7.0" 
+    }
+  }
+  
